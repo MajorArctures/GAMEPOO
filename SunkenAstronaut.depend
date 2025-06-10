@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1747786289 source:c:\users\beatriz\desktop\sunkenastronaut\src\background.cpp
+	"Background.hpp"
+	"raylib.h"
+
+1749524838 source:c:\users\beatriz\desktop\sunkenastronaut\src\main.cpp
+	"raylib.h"
+	"Background.hpp"
+	"gamestate.hpp"
+	"player.hpp"
+	"factory.hpp"
+	"tempoJogo.hpp"
+	"baseFinal.hpp"
+	<clocale>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
+1747258898 source:c:\users\beatriz\desktop\sunkenastronaut\src\game.cpp
+	"Game.hpp"
+	"raylib.h"
+
+1747508185 c:\users\beatriz\desktop\sunkenastronaut\src\game.hpp
+	"Background.hpp"
+
+1746147353 c:\users\beatriz\desktop\sunkenastronaut\src\background.hpp
+	"raylib.h"
+
+1748478129 c:\users\beatriz\desktop\sunkenastronaut\src\gamestate.hpp
+
+1747877537 source:c:\users\beatriz\desktop\sunkenastronaut\src\player.cpp
+	"player.hpp"
+	"item.hpp"
+	<vector>
+
+1749515690 c:\users\beatriz\desktop\sunkenastronaut\src\player.hpp
+	"raylib.h"
+	<vector>
+	"item.hpp"
+
+1747505684 source:c:\users\beatriz\desktop\sunkenastronaut\item.cpp
+
+1747869021 source:c:\users\beatriz\desktop\sunkenastronaut\src\item.cpp
+	"Item.hpp"
+
+1749508515 c:\users\beatriz\desktop\sunkenastronaut\src\item.hpp
+	"raylib.h"
+	"raymath.h"
+
+1749509099 source:c:\users\beatriz\desktop\sunkenastronaut\src\asteroide.cpp
+	"Asteroide.hpp"
+	"Asteroide.hpp"
+
+1749508998 c:\users\beatriz\desktop\sunkenastronaut\src\asteroide.hpp
+	"Item.hpp"
+
+1749509099 source:c:\users\beatriz\desktop\sunkenastronaut\src\estrelinha.cpp
+	"Estrelinha.hpp"
+
+1749509099 c:\users\beatriz\desktop\sunkenastronaut\src\estrelinha.hpp
+	"Item.hpp"
+
+1747520255 source:c:\users\beatriz\desktop\sunkenastronaut\src\spawner.cpp
+	"Spawner.hpp"
+	"Asteroide.hpp"
+	"Estrelinha.hpp"
+	"raylib.h"
+
+1747520595 c:\users\beatriz\desktop\sunkenastronaut\src\spawner.hpp
+	<vector>
+	"Item.hpp"
+	"raylib.h"
+
+1747517294 source:c:\users\beatriz\desktop\sunkenastronaut\src\block.cpp
+	"Item.hpp"
+
+1749512593 source:c:\users\beatriz\desktop\sunkenastronaut\src\factory.cpp
+	"factory.hpp"
+	"raymath.h"
+	<cstdlib>
+	<ctime>
+
+1749512505 c:\users\beatriz\desktop\sunkenastronaut\src\factory.hpp
+	<vector>
+	"item.hpp"
+	"estrelinha.hpp"
+	"asteroide.hpp"
+	"raylib.h"
+
+1747878848 source:c:\users\beatriz\desktop\sunkenastronaut\src\tempojogo.cpp
+	"TempoJogo.hpp"
+
+1749512736 c:\users\beatriz\desktop\sunkenastronaut\src\tempojogo.hpp
+	"raylib.h"
+	<cstdio>
+
+1749525269 source:c:\users\beatriz\desktop\sunkenastronaut\src\basefinal.cpp
+	"baseFinal.hpp"
+
+1749512815 c:\users\beatriz\desktop\sunkenastronaut\src\basefinal.hpp
+	"raylib.h"
+

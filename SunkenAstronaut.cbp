@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SunkenAstronaut" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="src/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SunkenAstronaut" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SunkenAstronaut" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="src/asteroide.cpp" />
+		<Unit filename="src/asteroide.hpp" />
+		<Unit filename="src/background.HPP" />
+		<Unit filename="src/background.cpp" />
+		<Unit filename="src/baseFinal.cpp" />
+		<Unit filename="src/baseFinal.hpp" />
+		<Unit filename="src/estrelinha.cpp" />
+		<Unit filename="src/estrelinha.hpp" />
+		<Unit filename="src/factory.cpp" />
+		<Unit filename="src/factory.hpp" />
+		<Unit filename="src/game.CPP" />
+		<Unit filename="src/game.hpp" />
+		<Unit filename="src/gamestate.hpp" />
+		<Unit filename="src/item.cpp" />
+		<Unit filename="src/item.hpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/player.HPP" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/tempoJogo.cpp" />
+		<Unit filename="src/tempoJogo.hpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
