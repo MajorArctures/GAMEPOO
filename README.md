@@ -5,9 +5,9 @@ Esse trabalho foi realizado utilizando o ambiente de desenvolvimento **Code Bloc
 
 ---
 
-## 📁 Descrição do Projeto
+## Descrição do Projeto
 
-### 1️⃣ Jogo - Lost Astronaut 🎮
+### Jogo - Lost Astronaut
 
 **Descrição:**  
 Um jogo simples, estruturado em programação orientada a objetos, combinado com os diferenciais da biblioteca *Raylib*.
@@ -19,20 +19,20 @@ Um jogo simples, estruturado em programação orientada a objetos, combinado com
 - **Tempo Personalizado** para que o jogador possa definir por quanto tempo deseja jogar;
 
 
-## 📚 Organização do Repositório
+## Organização do Repositório
 
 - `/RELATÓRIO/` – Contém o relatório de desenvolvimento elaborado como requisito parcial do projeto.
 - `/APP/` – Contém a apresentação em PDF elaborada como requisito parcial do projeto.
 ---
 
-## 📌 Sobre a Disciplina
+## Sobre a Disciplina
 
 **Programação Orientada a Obejtos** aborda os fundamentos desse paradigma de programação, suas nuances e particularidades e propõem uma maneira nova de desenvolver, até então, utilizava-se apenas o paradigma estruturado.
 Além desse, mais um projeto foi desenvolvido como requisito parcial, o mesmo se encontra disponível em: <https://github.com/MajorArctures/CJPROO-PROJ02.git> 
 
 ---
 
-## 📎 Créditos e Referências
+## Créditos e Referências
 
 - Estudante: Beatriz Helena
 - Curso: Análise e Desenvolvimento de Sistemas
