@@ -28,7 +28,7 @@ Um jogo simples, estruturado em programação orientada a objetos, combinado com
 ## 📌 Sobre a Disciplina
 
 **Programação Orientada a Obejtos** aborda os fundamentos desse paradigma de programação, suas nuances e particularidades e propõem uma maneira nova de desenvolver, até então, utilizava-se apenas o paradigma estruturado.
-Além desse, mais um projeto foi desenvolvido como requisito parcial, o mesmo se encontra disponível em: 
+Além desse, mais um projeto foi desenvolvido como requisito parcial, o mesmo se encontra disponível em: <https://github.com/MajorArctures/CJPROO-PROJ02.git> 
 
 ---
 
